@@ -11,5 +11,6 @@ public class Factorial {
         }
         System.out.printf("Factorial of %d = %d", num, factorial);
         System.out.printf("Test");
+        System.out.printf("Test 2");
     }
 }
