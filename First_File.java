@@ -15,7 +15,9 @@ public class Factorial {
         System.out.printf("Test 3"); 
         System.out.printf("Test 4");
         System.out.printf("Test 5");
-        System.OUT.printf("Test 6");   
+        System.out.printf("Test 6");  
+        System.out.printf("Modification sur le premier fichier"); 
+        system.out.printf("Modification sur les deux fichiers en meme temps !");
         
      }
 }
