@@ -10,7 +10,10 @@ public class Factorial {
             factorial *= i;
         }
         System.out.printf("Factorial of %d = %d", num, factorial);
-        System.out.printf("Test");
+        System.out.printf("Test 1");
         System.out.printf("Test 2");
-    }
+        System.out.printf("Test 3"); 
+        System.out.printf("Test 4");   
+        
+     }
 }
