@@ -14,7 +14,8 @@ public class Factorial {
         System.out.printf("Test 2");
         System.out.printf("Test 3"); 
         System.out.printf("Test 4");
-        System.out.printf("Test 5");   
+        System.out.printf("Test 5");
+        System.OUT.printf("Test 6");   
         
      }
 }
